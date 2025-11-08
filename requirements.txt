@@ -1,0 +1,11 @@
+transformers>=4.43
+accelerate>=0.33
+bitsandbytes>=0.43.1
+peft>=0.10.0
+datasets>=2.20
+auto-gptq>=0.7.1
+optimum>=1.19.1
+safetensors>=0.4.3
+huggingface_hub>=0.24
+sentencepiece>=0.1.99
+protobuf<5
